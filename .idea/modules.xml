@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Integers/Integers.iml" filepath="$PROJECT_DIR$/src/Integers/Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Strings leetcode/Strings leetcode.iml" filepath="$PROJECT_DIR$/src/Strings leetcode/Strings leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode Prep.iml" filepath="$PROJECT_DIR$/leetcode Prep.iml" />
+    </modules>
+  </component>
+</project>
